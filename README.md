@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @RituSharma001
-- 👀 I’m interested in Data analyst
-- 🌱 I’m currently learning Python, SQL, PowerBI
-- 💞️ I’m looking to work as a Data analyst
-- 📫 her is my official email id:- ritudatascientest@gmail.com
-- 😄 Pronouns: Ritu sharma
+- 😄 Hi my self Ritu sharma
+- 👀 I’m a Data analyst
+- 🌱 Experties Python, SQL, PowerBI,Data visulization,
+     Data Mining, Trend analysis.
+- 📫 email id:- ritudatascientest@gmail.com
+- 👋 Github id:- @RituSharma001
 
 <!---
 RituSharma001/RituSharma001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
